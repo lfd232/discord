@@ -1,0 +1,53 @@
+.chat{
+    width: 60px;
+    height: 105vh;
+    background-color: #1F1D1D;
+}
+body {
+    margin: 0;
+}
+.domik{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+h1{
+    margin-left: 5px;
+    font-size: 15px;
+    color: #48736F;
+}
+.sear{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.poick{
+    color: aliceblue;
+}
+.savet {
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.te{
+    margin-left: 6px;
+    color: aliceblue;
+}
+.shar{
+    margin-top: 30px;
+    
+}
+.sh{
+    color: aliceblue;
+}
+.set{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.seti{
+    color: aliceblue;
+}
+.night{
+    margin-left: 5px;
+    margin-top: 80px;
+}
+.mask{
+    margin-top: 10px;
+}
